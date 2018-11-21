@@ -1,0 +1,18 @@
+{
+    "name":"573734817pc/p",
+	"description":"php Quick print extension Library",
+	"type":"library",
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"panchao",
+			"email":"573734817@qq.com"
+		}
+	],
+	"minimum-stability":"dev",
+	"autoload":{
+		"files":[
+			"tools.php"
+		]
+	}
+}
